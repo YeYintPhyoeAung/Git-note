@@ -16,4 +16,4 @@ mkdir          -> make directory
 touch          -> make file 
 rm -rf (name)  -> remove directory or file
 cat (file-name)-> read file
-nano (file-name)-> edit file
+nano (file-name)-> edit file (change file and then to save enter ctrl+s and to exit enter ctrl+x)
