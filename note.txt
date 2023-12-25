@@ -1,4 +1,17 @@
+Git command 
+-------------
 step-1 -> git init
 step-2 -> create repository
 step-3 -> git remote add origin (url)
 step-4 -> git add . , git commit -m "message" , git push origin main -u
+step-5 -> git pull
+clone repository to local -> Go to file path that you want to -> git clone (url) 
+
+
+linux command 
+--------------
+cd (name)      -> change directory , (../ -> previous directory)
+ls             -> list
+mkdir          -> make directory
+touch          -> make file 
+rm -rf (name)  -> remove directory or file
